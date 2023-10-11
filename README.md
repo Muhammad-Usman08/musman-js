@@ -34,11 +34,10 @@
 
 <h3 align="left">🏫 Plans of Learning :</h3>
 
-<p>
-	<img src="https://skillicons.dev/icons?i=nextjs,tailwind" />
+<p><img src="https://skillicons.dev/icons?i=nextjs,tailwind" />
 	<img src="https://skillicons.dev/icons?i=react,express,mongodb" alt="">
-	<img src="https://skillicons.dev/icons?i=,nodejs" alt="">
-	<img src="https://skillicons.dev/icons?i=ts" alt="">
+	<img src="https://skillicons.dev/icons?i=nodejs,ts" alt="">
+	
 		
 		
 	
