@@ -36,8 +36,8 @@
 
 <p>
 	<img src="https://skillicons.dev/icons?i=nextjs,tailwind" />
-	<img src="https://skillicons.dev/icons?i=react,express" alt="">
-	<img src="https://skillicons.dev/icons?i=mongodb,nodejs" alt="">
+	<img src="https://skillicons.dev/icons?i=react,express,mongodb" alt="">
+	<img src="https://skillicons.dev/icons?i=,nodejs" alt="">
 	<img src="https://skillicons.dev/icons?i=ts" alt="">
 		
 		
