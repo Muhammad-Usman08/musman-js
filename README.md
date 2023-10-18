@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **JavaScript** <br>
 
+- 💬 Ask me about  **Html,Css,Bootstrap** <br>
+
 - 📫 How to reach me **usman2037966@gmail.com** <br>
    
 <h3 align="left">📫 Connect with me on 🔗 :</h3>
