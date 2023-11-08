@@ -1,9 +1,9 @@
 <h2 align="center">A PASSIONATE FRONTEND DEVELOPER!</h2>
 <!-- <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="300" style="margin-top: 80px;"> -->
 
-- 🌱 I’m currently learning **JavaScript** <br>
+- 🌱 I’m currently learning **Firebase Authentication** <br>
 
-- 💬 Ask me about  **Html,Css,Bootstrap** <br>
+- 💬 Ask me about  **Html,Css,Bootstrap,JavaScript** <br>
 
 - 📫 How to reach me **usman2037966@gmail.com** <br>
    
