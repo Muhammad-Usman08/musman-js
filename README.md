@@ -25,7 +25,7 @@
 <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="" style="width: 50px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="" width="60px">
-	<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+	<img src="https://skillicons.dev/icons?i=git,github,vscode,tailwind" />
 	<img src="https://skillicons.dev/icons?i=css,js" />
 	<img src="https://skillicons.dev/icons?i=firebase" />
 
@@ -35,7 +35,7 @@
 
 <h3 align="left">🏫 Plans of Learning :</h3>
 
-<p><img src="https://skillicons.dev/icons?i=nextjs,tailwind" />
+<p><img src="https://skillicons.dev/icons?i=nextjs" />
 	<img src="https://skillicons.dev/icons?i=react,express,mongodb" alt="">
 	<img src="https://skillicons.dev/icons?i=nodejs,ts" alt="">
 	
