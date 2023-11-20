@@ -1,6 +1,4 @@
-<img alt="" style="border-radius:16px;" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/283298876/original/fc62d9195d2865fd04a1c8642eadd9ba4c1f86af/develop-a-responsive-front-end-website-with-html-css-bootstrap.png](http://127.0.0.1:5501/background.png)" width="100%">
- 
- <h2 align="center">A PASSIONATE FRONTEND DEVELOPER!</h2>
+  <h2 align="center">A PASSIONATE FRONTEND DEVELOPER!</h2>
 
    <p>I am a dedicated Frontend Developer, having successfully completed my frontend developer course from Jawaan Pakistan. Proficient in HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, and Firebase, I specialize in crafting visually appealing and responsive user interfaces. My journey into web development has equipped me with a versatile skill set, and I am eager to further expand my expertise to become a Full Stack Developer.</p>
 
