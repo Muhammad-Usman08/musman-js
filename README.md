@@ -1,12 +1,13 @@
-  <h2 align="center">A PASSIONATE FRONTEND DEVELOPER!</h2>
+![Untitled design](https://github.com/musman-js/musman-js/assets/142093838/8d32a082-a1d0-4fd4-bf26-1cc50ae744e3)
+    
+<h2 align="center">A PASSIONATE FRONTEND DEVELOPER!</h2>
 
    <p>I am a dedicated Frontend Developer, having successfully completed my frontend developer course from Jawaan Pakistan. Proficient in HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, and Firebase, I specialize in crafting visually appealing and responsive user interfaces. My journey into web development has equipped me with a versatile skill set, and I am eager to further expand my expertise to become a Full Stack Developer.</p>
+<br>
 
-
-- 💬 Ask me about  **Html,Css,Bootstrap,JavaScript** <br>
-
-- 📫 How to reach me **usman2037966@gmail.com** <br>
-  
+- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript** <br>
+- 📫 How to reach me **usman2037966@gmail.com**
+<br>
 
 <h3 align="left">📫 Connect with me on 🔗 :</h3>
      <p align="left">
@@ -41,3 +42,4 @@
 </p>
 <hr>
 <br>
+    
