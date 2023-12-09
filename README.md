@@ -8,6 +8,7 @@
 - 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript** <br>
 - 📫 How to reach me **usman2037966@gmail.com**
 <br>
+<hr>
 
 <h3 align="left">📫 Connect with me on 🔗 :</h3>
      <p align="left">
