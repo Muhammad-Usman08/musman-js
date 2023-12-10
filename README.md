@@ -8,6 +8,7 @@
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=musman-js&label=Profile%20views&color=0e75b6&style=flat" alt="musman-js"  width ="130px" heigth = "140px"/> </p>
+<img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="coding" width="300" align = "right" class ="coding-gif">
 
 - 🌱 I’m currently learning **JavaScript(ES6)** <br>
 
@@ -32,7 +33,7 @@
 <h3 align="left">
         🛠️ Crafting with Languages and Tools: ⚙️🔧 : </h3>
     <br>
-<p  align ="left">
+<p  align ="center">
 <!--         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="" style="width: 50px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="" width="60px"> -->
 	<img src="https://skillicons.dev/icons?i=html,bootstrap" />
@@ -45,10 +46,9 @@
     
  <h3 align="left"> Charting Courses of Learning: 📚✨    :</h3>
  <br>   
-<p align ="left"><img src="https://skillicons.dev/icons?i=nextjs" />
+<p align ="center"><img src="https://skillicons.dev/icons?i=nextjs" />
         <img src="https://skillicons.dev/icons?i=react,express,mongodb" alt="images">
         <img src="https://skillicons.dev/icons?i=nodejs,ts" alt="images"> &nbsp;
         <img src="https://skillicons.dev/icons?i=flutter" alt="image">
         
 </p>
-
