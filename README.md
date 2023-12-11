@@ -33,7 +33,7 @@
 <h3 align="left">
         🛠️ Crafting with Languages and Tools: ⚙️🔧 : </h3>
     <br>
-<p  align ="center">
+<p  align ="left">
 <!--         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="" style="width: 50px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="" width="60px"> -->
 	<img src="https://skillicons.dev/icons?i=html,bootstrap" />
@@ -46,7 +46,7 @@
     
  <h3 align="left"> Charting Courses of Learning: 📚✨    :</h3>
  <br>   
-<p align ="center"><img src="https://skillicons.dev/icons?i=nextjs" />
+<p align ="left"><img src="https://skillicons.dev/icons?i=nextjs" />
         <img src="https://skillicons.dev/icons?i=react,express,mongodb" alt="images">
         <img src="https://skillicons.dev/icons?i=nodejs,ts" alt="images"> &nbsp;
         <img src="https://skillicons.dev/icons?i=flutter" alt="image">
