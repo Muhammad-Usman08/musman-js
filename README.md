@@ -8,7 +8,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=musman-js&label=Profile%20views&color=0e75b6&style=flat" alt="musman-js" style="margin-top: -30px; margin-bottom: 20px;"  width ="130px" heigth = "140px"/> </p>
 
-<img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="coding" width="250" align = "right" class="coding-gif" style="margin-top: -30px; margin-bottom: 15px">
+<img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="coding" width="280" align = "right" class="coding-gif" style="margin-top: -30px; margin-bottom: 15px">
 
 - 🌱 I’m currently learning **JavaScript(ES6)** <br>
 
