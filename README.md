@@ -1,3 +1,11 @@
+<style>
+	@media(max-width: 470px){
+	    .coding-gif{
+		    width : 100%;
+	    }
+	}
+</style>
+
 <h1 align="left">Hi, I'm Muhammad Usman 👋</h1>
 
 ![Untitled design](https://github.com/musman-js/musman-js/assets/142093838/8d32a082-a1d0-4fd4-bf26-1cc50ae744e3)
