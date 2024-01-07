@@ -28,7 +28,7 @@
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="50" width="50" alt="twitter icon" /></a>
         <a href="https://www.instagram.com/usman.___here/" target="blank" style="padding:8px"><img align="center"
                 src="https://skillicons.dev/icons?i=instagram" alt="instagramicon" height="50" width="50" /></a> </p>
- <a href="https://www.hackerrank.com/profile/usman2037966" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrankicon" height="50" width="50"  style="margin-left: 10em;" ></a>
+ <a href="https://www.hackerrank.com/profile/usmangamingyt671" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrankicon" height="50" width="50"  style="margin-left: 10em;" ></a>
 
 
         
