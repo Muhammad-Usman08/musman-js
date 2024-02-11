@@ -52,6 +52,6 @@
 <p align ="left"><img src="https://skillicons.dev/icons?i=nextjs" />
         <img src="https://skillicons.dev/icons?i=react,express,mongodb" alt="images">
         <img src="https://skillicons.dev/icons?i=nodejs,ts" alt="images"> &nbsp;
-        <img src="https://skillicons.dev/icons?i=flutter" alt="image">
+        <img src="https://skillicons.dev/icons?i=flutter,dart" alt="image">
         
 </p>
