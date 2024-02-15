@@ -40,9 +40,8 @@
 <!--         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="" style="width: 50px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="" width="60px"> -->
 	<img src="https://skillicons.dev/icons?i=html,bootstrap" />
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,tailwind" />
-        <img src="https://skillicons.dev/icons?i=css,js" />
-        <img src="https://skillicons.dev/icons?i=firebase" />
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,tailwind,css,js,firebase" />
+     
     
 </p>
  <hr>
@@ -50,8 +49,7 @@
  <h3 align="left"> Charting Courses of Learning: 📚✨    :</h3>
  <br>   
 <p align ="left"><img src="https://skillicons.dev/icons?i=nextjs" />
-        <img src="https://skillicons.dev/icons?i=react,express,mongodb" alt="images">
-        <img src="https://skillicons.dev/icons?i=nodejs,ts" alt="images"> &nbsp;
-        <img src="https://skillicons.dev/icons?i=flutter,dart" alt="image">
+        <img src="https://skillicons.dev/icons?i=react,express,mongodb,nodejs,ts,flutter,dart,django" alt="images">
+        
         
 </p>
