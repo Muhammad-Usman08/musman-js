@@ -5,6 +5,7 @@
 
 <h2 align = "center">A PASSIONATE FRONTEND DEVELOPER!</h2>
 <p>I am a dedicated Frontend Developer, having successfully completed my frontend developer course from Jawaan Pakistan. Proficient in HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, and Firebase, I specialize in crafting visually appealing and responsive user interfaces. My journey into web development has equipped me with a versatile skill set, and I am eager to further expand my expertise to become a Full Stack Developer.</p>
+<p>I am also currently expanding my skill set to include mobile app development, particularly focusing on Flutter. Recognizing the growing demand for cross-platform solutions, I am enrolled in a Flutter development course at Jawaan Pakistan. By delving into Flutter, I aim to broaden my expertise and offer comprehensive solutions across both web and mobile platforms.</p>
 <br>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=musman-js&label=Profile%20views&color=0e75b6&style=flat" alt="musman-js" style="margin-top: -30px; margin-bottom: 20px;"  width ="130px" heigth = "140px"/> </p>
