@@ -1,7 +1,7 @@
 
 <h1 align="left">Hi, I'm Muhammad Usman 👋</h1>
 
-![Frontend](https://github.com/musman-js/musman-js/assets/142093838/b1597c36-06ad-4638-82b7-753eb0e5bb91)
+![Untitled design](https://github.com/musman-js/musman-js/assets/142093838/047907cb-3dd2-42ea-af3b-5335e5ad1f4c)
 
 <h2 align = "center">A PASSIONATE FRONTEND DEVELOPER!</h2>
 <p>I am a dedicated Frontend Developer, having successfully completed my frontend developer course from Jawaan Pakistan. Proficient in HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, and Firebase, I specialize in crafting visually appealing and responsive user interfaces. My journey into web development has equipped me with a versatile skill set, and I am eager to further expand my expertise to become a Full Stack Developer.</p>
