@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **usman2037966@gmail.com**
 
-- 👨‍💻 All of my projects are available at **https://musman-js.web.app** 
+- 👨‍💻 All of my projects are available at **https://musmanjs.web.app** 
 
 <br>
 
