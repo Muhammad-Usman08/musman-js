@@ -12,7 +12,7 @@
 
 <img src="https://github.com/musman-js/musman-js/assets/142093838/1306f38b-a74a-4a5d-a3a9-016c0d762c6f" alt="coding" width="350" align = "right" class="coding-gif" style="margin-top: -30px; margin-bottom: 15px">
 
-- 🌱 I’m currently learning **JavaScript(ES6)** <br>
+- 🌱 I’m currently learning **JavaScript(ES6), Dart** <br>
 
 - 💬 Ask me about **HTML, CSS, BOOTSTRAP, JAVASCRIPT** <br>
 
@@ -50,7 +50,7 @@
 </p>
  <hr>
     
- <h3 align="left"> Charting Courses of Learning: 📚✨    :</h3>
+ <h3 align="left"> Plans of Learning: 📚✨    :</h3>
  <br>   
 <p align ="left"><img src="https://skillicons.dev/icons?i=nextjs" />
         <img src="https://skillicons.dev/icons?i=react,express" alt="images">
