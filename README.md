@@ -30,6 +30,9 @@
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="50" width="50" alt="twitter icon" /></a>
         <a href="https://www.instagram.com/usman.___here/" target="_blank" style="padding:8px"><img align="center"
                 src="https://skillicons.dev/icons?i=instagram" alt="instagramicon" height="50" width="50" /></a> </p>
+<hr>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/muhammadusman08"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/muhammadusman08" /></a></p><br><br>
 
 
 
@@ -56,9 +59,7 @@
         <img src="https://skillicons.dev/icons?i=react,express" alt="images">
         <img src="https://skillicons.dev/icons?i=mongodb,nodejs,ts,flutter" alt="images">
         <img src="https://skillicons.dev/icons?i=dart,django" alt="images">
-	
-	
-	   
-        
-        
 </p>
+<hr>
+<p align="center">
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=musman-js&" alt="musman-js" /></p>
