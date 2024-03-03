@@ -32,7 +32,7 @@
                 src="https://skillicons.dev/icons?i=instagram" alt="instagramicon" height="50" width="50" /></a> </p>
 <hr>
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/muhammadusman08"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/muhammadusman08" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/muhammadusman08"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/muhammadusman08" /></a></p><br><br>
 
 
 
