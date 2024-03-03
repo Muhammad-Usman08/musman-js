@@ -39,7 +39,7 @@
         
 <hr>
 <h3 align="left">
-        🛠️ Crafting with Languages and Tools ⚙️🔧 : </h3>
+        Languages and Tools ⚙️🔧 : </h3>
     <br>
 <p  align ="left">
 <!--         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="" style="width: 50px;">
