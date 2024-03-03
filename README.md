@@ -36,7 +36,7 @@
         
 <hr>
 <h3 align="left">
-        🛠️ Crafting with Languages and Tools: ⚙️🔧 : </h3>
+        🛠️ Crafting with Languages and Tools ⚙️🔧 : </h3>
     <br>
 <p  align ="left">
 <!--         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="" style="width: 50px;">
@@ -50,7 +50,7 @@
 </p>
  <hr>
     
- <h3 align="left"> Plans of Learning: 📚✨    :</h3>
+ <h3 align="left"> Plans of Learning 📚✨:</h3>
  <br>   
 <p align ="left"><img src="https://skillicons.dev/icons?i=nextjs" />
         <img src="https://skillicons.dev/icons?i=react,express" alt="images">
