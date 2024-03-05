@@ -61,5 +61,4 @@
         <img src="https://skillicons.dev/icons?i=dart,django" alt="images">
 </p>
 <hr>
-<p align="center">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=musman-js&" alt="musman-js" /></p>
+
