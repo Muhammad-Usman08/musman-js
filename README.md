@@ -47,7 +47,7 @@
 	<img src="https://skillicons.dev/icons?i=html,bootstrap,git" />
         <img src="https://skillicons.dev/icons?i=github,vscode,tailwind,css" />
 <!-- 	<img src="https://skillicons.dev/icons?i=js" /> -->
-        <img src="https://skillicons.dev/icons?i=js,firebase" />
+        <img src="https://skillicons.dev/icons?i=js,dart,firebase" />
      
     
 </p>
@@ -58,7 +58,7 @@
 <p align ="left"><img src="https://skillicons.dev/icons?i=nextjs" />
         <img src="https://skillicons.dev/icons?i=react,express" alt="images">
         <img src="https://skillicons.dev/icons?i=mongodb,nodejs,ts,flutter" alt="images">
-        <img src="https://skillicons.dev/icons?i=dart,django" alt="images">
+        <img src="https://skillicons.dev/icons?i=django" alt="images">
 </p>
 <hr>
 
