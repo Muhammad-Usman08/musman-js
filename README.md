@@ -12,7 +12,7 @@
 
 <img src="https://github.com/musman-js/musman-js/assets/142093838/1306f38b-a74a-4a5d-a3a9-016c0d762c6f" alt="coding" width="350" align = "right" class="coding-gif" style="margin-top: -30px; margin-bottom: 15px">
 
-- 🌱 I’m currently learning **JavaScript(ES6), Dart** <br>
+- 🌱 I’m currently learning **React, Dart** <br>
 
 - 💬 Ask me about **HTML, CSS, BOOTSTRAP, JAVASCRIPT** <br>
 
