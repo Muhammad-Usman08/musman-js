@@ -28,7 +28,7 @@
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="45" width="55" alt="twitter icon" /></a>
         <a href="https://www.instagram.com/usman.___here/" target="_blank" style="padding:8px"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagramicon" height="45" width="55" /></a>
-	<a href="https://www.instagram.com/usman.___here/" target="_blank" style="padding:8px"><img align="center"
+	<a href="https://www.hackerrank.com/profile/usmangamingyt671" target="_blank" style="padding:8px"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="45" width="55" /></a>
                
      
@@ -46,7 +46,6 @@
 <p  align ="left">
 	<img src="https://skillicons.dev/icons?i=html,bootstrap,git" />
         <img src="https://skillicons.dev/icons?i=github,vscode,tailwind,css" />
-<!-- 	<img src="https://skillicons.dev/icons?i=js" /> -->
         <img src="https://skillicons.dev/icons?i=js,dart,react,firebase" />
      
     
