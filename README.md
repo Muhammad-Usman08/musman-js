@@ -29,10 +29,10 @@
         <a href="https://www.instagram.com/usman.___here/" target="_blank" style="padding:8px"><img align="center"
                 src="https://skillicons.dev/icons?i=instagram" alt="instagramicon" height="50" width="50" /></a> </p>
 		<p align="left"> -->
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-usman-772296294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-usman-772296294/" height="45" width="55" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100063423567314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100063423567314" height="45" width="55" /></a>
-<a href="https://instagram.com/https://www.instagram.com/usman.___here/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/usman.___here/" height="45" width="55" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/usman2037966" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/usman2037966" height="45" width="55" /></a>
+<a href="https://www.linkedin.com/in/muhammad-usman-772296294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="45" width="55" /></a>
+<a href="https://www.facebook.com/profile.php?id=100063423567314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="45" width="55" /></a>
+<a href="https://www.instagram.com/usman.___here/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="45" width="55" /></a>
+<a href="https://www.hackerrank.com/profile/usman2037966" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="45" width="55" /></a>
 <!-- <a href="https://www.hackerearth.com/@usmangamingyt671" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@usmangamingyt671" height="30" width="40" /></a> -->
 </p>
 <hr>
