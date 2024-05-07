@@ -42,9 +42,9 @@
         Languages and Tools ⚙️🔧 : </h3>
     <br>
 <p  align ="left">
-	<img src="https://skillicons.dev/icons?i=html,bootstrap,git" />
-        <img src="https://skillicons.dev/icons?i=github,vscode,tailwind,css" />
-        <img src="https://skillicons.dev/icons?i=js,dart,react,firebase" />
+	<img src="https://skillicons.dev/icons?i=html,bootstrap,git,github" />
+        <img src="https://skillicons.dev/icons?i=vscode,tailwind,css,js" />
+        <img src="https://skillicons.dev/icons?i=dart,react,firebase" />
      
     
 </p>
@@ -52,9 +52,9 @@
     
  <h3 align="left"> Plans of Learning 📚✨:</h3>
  <br>   
-<p align ="left"><img src="https://skillicons.dev/icons?i=nextjs" />
-        <img src="https://skillicons.dev/icons?i=express" alt="images">
-        <img src="https://skillicons.dev/icons?i=mongodb,nodejs,ts,flutter" alt="images">
+<p align ="left">
+	<img src="https://skillicons.dev/icons?i=nextjs,express,nodejs,ts" />
+        <img src="https://skillicons.dev/icons?i=mongodb,flutter" alt="images">
         <img src="https://skillicons.dev/icons?i=django" alt="images">
 </p>
 <hr>
