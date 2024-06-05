@@ -10,24 +10,26 @@
 
 <img src="https://github.com/musman-js/musman-js/assets/142093838/1306f38b-a74a-4a5d-a3a9-016c0d762c6f" alt="coding" width="350" align = "right" class="coding-gif" style="margin-top: -30px; margin-bottom: 15px">
 
-- 🌱 I’m currently learning **React, Dart** <br>
+- 🌱 I’m currently learning **React, Flutter** <br>
 
-- 💬 Ask me about **HTML, CSS, BOOTSTRAP, JAVASCRIPT** <br>
+- 💬 Ask me about **DART, JAVASCRIPT** <br>
 
 - 📫 How to reach me **usman2037966@gmail.com**
+
+- 👨‍💻 All of my projects are available at [musmanjs.web.app](musmanjs.web.app)
 
 <br>
 
 <h3 align="left">📫 Connect with me on 🔗        :</h3>
      <p align="left">
         <a href="https://www.linkedin.com/in/muhammad-usman-772296294/" target="_blank"><img align="center"
-                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45" width="55" alt="linkedin" /></a>
+                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="50" alt="linkedin" /></a>
         <a href="https://www.facebook.com/profile.php?id=100063423567314" target="_blank" style="padding:8px"><img align="center" style="margin:8px"
-                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="45" width="55" alt="twitter icon" /></a>
+                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" width="50" alt="twitter icon" /></a>
         <a href="https://www.instagram.com/usman.___here/" target="_blank" style="padding:8px"><img align="center"
-                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagramicon" height="45" width="55" /></a>
+                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagramicon" height="40" width="50" /></a>
 	<a href="https://www.hackerrank.com/profile/usmangamingyt671" target="_blank" style="padding:8px"><img align="center"
-                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="45" width="55" /></a>
+                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="40" width="50" /></a>
                
      
 </p>
@@ -35,8 +37,6 @@
 
 </p>
 <hr>
-<!-- <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/muhammadusman08"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/muhammadusman08" /></a></p><br><br> -->
 
 <h3 align="left">
         Languages and Tools ⚙️🔧 : </h3>
@@ -44,7 +44,7 @@
 <p  align ="left">
 	<img src="https://skillicons.dev/icons?i=html,bootstrap,git,github" />
         <img src="https://skillicons.dev/icons?i=vscode,tailwind,css,js" />
-        <img src="https://skillicons.dev/icons?i=dart,react,firebase" />
+        <img src="https://skillicons.dev/icons?i=dart,react,flutter,firebase" />
      
     
 </p>
@@ -53,8 +53,8 @@
  <h3 align="left"> Plans of Learning 📚✨:</h3>
  <br>   
 <p align ="left">
-	<img src="https://skillicons.dev/icons?i=nextjs,express,nodejs,ts" />
-        <img src="https://skillicons.dev/icons?i=mongodb,flutter" alt="images">
+	<img src="https://skillicons.dev/icons?i=nextjs,express,nodejs,ts,redux" />
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="images">
         <img src="https://skillicons.dev/icons?i=django" alt="images">
 </p>
 <hr>
