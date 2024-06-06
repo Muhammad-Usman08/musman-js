@@ -42,8 +42,8 @@
         Languages and Tools ⚙️🔧 : </h3>
     <br>
 <p  align ="left">
-	<img src="https://skillicons.dev/icons?i=html,bootstrap,git,github" />
-        <img src="https://skillicons.dev/icons?i=vscode,tailwind,css,js" />
+	<img src="https://skillicons.dev/icons?i=html,bootstrap,git" />
+        <img src="https://skillicons.dev/icons?i=github,vscode,tailwind,css,js" />
         <img src="https://skillicons.dev/icons?i=dart,react,flutter,firebase" />
      
     
