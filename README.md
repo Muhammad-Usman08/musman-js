@@ -1,5 +1,5 @@
+![background](https://github.com/musman-js/musman-js/assets/142093838/3aca18ca-3f5c-4f3a-a816-31fdb44367dc)
 
-![Untitled design](https://github.com/musman-js/musman-js/assets/142093838/047907cb-3dd2-42ea-af3b-5335e5ad1f4c)
 
 <h2 align = "center">A PASSIONATE FRONTEND DEVELOPER!</h2>
 <p>I am a dedicated Frontend Developer, having successfully completed my frontend developer course from Jawaan Pakistan. Proficient in HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, and Firebase, I specialize in crafting visually appealing and responsive user interfaces.</p>
